@@ -1,0 +1,13 @@
+#background {
+  background-color: azure;
+}
+
+.divvvvv {
+  border: 3px solid indigo;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-weight: bold;
+  font-style: italic; 
+}
